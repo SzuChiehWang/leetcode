@@ -1,5 +1,5 @@
-all:1.cpp
-	clang++ -std=c++11 1.cpp -o 1.out
+all:136.cpp
+	clang++ -std=c++11 136_faster.cpp -o 136_faster.out
 
 
 
